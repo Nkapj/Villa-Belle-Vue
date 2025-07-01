@@ -49,10 +49,9 @@ const Pricing = () => {
 
   const additionalServices = [
     {
-      service: "Électricité (Climatisation)",
+      service: "Électricité ",
       price: "7,50€",
       period: "par jour",
-      description: "Couvre l'utilisation intensive de la climatisation",
       icon: Zap,
     },
   ];
@@ -213,10 +212,6 @@ const Pricing = () => {
               <li>
                 • La réduction s'applique automatiquement pour les séjours de 3
                 nuits ou plus
-              </li>
-              <li>
-                • L'électricité est facturée séparément en raison de
-                l'utilisation intensive de la climatisation
               </li>
               <li>
                 • Possibilité de recharge électrique dans les commerces locaux
