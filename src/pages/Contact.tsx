@@ -82,7 +82,7 @@ const Contact = () => {
           Contactez-nous
         </h1>
         <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-          Vous souhaitez réserver Villa Lagune ou obtenir plus d'informations ?
+          Vous souhaitez réserver Villa Belle Vue ou obtenir plus d'informations ?
           Remplissez le formulaire ci-dessous et nous vous recontacterons
           rapidement.
         </p>
@@ -235,7 +235,7 @@ const Contact = () => {
           {/* Contact Information & Quick Info */}
           <div className="space-y-6">
             {/* Contact Details */}
-            <Card className="shadow-lg">
+            {/* <Card className="shadow-lg">
               <CardHeader>
                 <CardTitle>Informations de Contact</CardTitle>
               </CardHeader>
@@ -255,7 +255,7 @@ const Contact = () => {
                   </div>
                 ))}
               </CardContent>
-            </Card>
+            </Card> */}
 
             {/* Quick Summary */}
             <Card className="shadow-lg bg-gradient-to-br from-primary/5 to-accent/5">
