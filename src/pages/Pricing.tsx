@@ -52,6 +52,7 @@ const Pricing = () => {
       service: "Électricité ",
       price: "7,50€",
       period: "par jour",
+      description: "Couvre l'utilisation",
       icon: Zap,
     },
   ];
